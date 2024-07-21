@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Plat Former",
+"dataUrl": "Version 6 2d platformer.data.unityweb",
+"asmCodeUrl": "Version 6 2d platformer.asm.code.unityweb",
+"asmMemoryUrl": "Version 6 2d platformer.asm.memory.unityweb",
+"asmFrameworkUrl": "Version 6 2d platformer.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

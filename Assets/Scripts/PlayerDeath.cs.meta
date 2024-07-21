@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 574c73c20f37faf45b21ae0624970934
+timeCreated: 1617761636
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeathAudio: {fileID: 1901070069922870, guid: 98e850b216f9d2943a9fcf8421a38fa4,
+      type: 2}
+  - DeathAud: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

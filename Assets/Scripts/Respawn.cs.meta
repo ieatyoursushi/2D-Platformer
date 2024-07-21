@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0507d0d035d57684383400dc701dd023
+timeCreated: 1617761778
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - Obstacle: {instanceID: 0}
+  - DeathAudio: {instanceID: 0}
+  - DeathAud: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

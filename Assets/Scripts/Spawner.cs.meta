@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 176a0975295a7044fb2c0d5eb3d98bb1
+timeCreated: 1619489049
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CircleCollider2D: {instanceID: 0}
+  - Obstacle: {fileID: 1096173647033100, guid: 7729d574a0cfb5b40a57e4455268a40b, type: 2}
+  - ObjectSpawner: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7ed2b8ce4d86744d802131036480845
+timeCreated: 1616261658
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LGround: {fileID: 1555883458531688, guid: 89a358780b046bd43ba1b37976cfa8bc, type: 2}
+  - texture1: {fileID: 21300000, guid: 477d00171abadec489fa36b09d287890, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
